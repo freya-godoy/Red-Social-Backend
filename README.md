@@ -4,13 +4,13 @@ Este backend es el núcleo de la red social, desarrollado con Node.js, Express y
 
 ## Tabla de Contenidos
 
-- [aracterísticas](#aracterísticas)
-- [Tecnologías](#Tecnologías)
-- [Instalación](#Instalación)
-- [Usage](#usage)
-- [interfaz](#interfaz)
-- [Despliegue](# Despliegue)
-- [Contacto](#Contacto)
+- [Características](#caracteristicas)
+- [Tecnologías](#tecnologias)
+- [Instalación](#instalacion)
+- [Uso](#uso)
+- [Interfaz](#interfaz)
+- [Despliegue](#despliegue)
+- [Contacto](#contacto)
 
 ## Características 💬
 
@@ -60,7 +60,7 @@ Registro 👥
 Comunidad 🌍
 ![Pantalla de inicio](./Imagenes-para-Readme/muestra-de-ruta-gente-red-social.png)
 
-Ajustes🔧
+Ajustes 🔧
 ![Pantalla de inicio](./Imagenes-para-Readme/muestra-ajustes-red-social.png)
 
 Perfil 👩 👨
