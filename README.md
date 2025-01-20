@@ -4,13 +4,13 @@ Este backend es el núcleo de la red social, desarrollado con Node.js, Express y
 
 ## Tabla de Contenidos
 
-- [Características](#características)
-- [Tecnologías](#tecnologías)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Contribuciones](#contribuciones)
-- [Contacto](#contacto)
+- [aracterísticas](#aracterísticas)
+- [Tecnologías](#Tecnologías)
+- [Instalación](#Instalación)
+- [Usage](#usage)
+- [interfaz](#interfaz)
+- [Despliegue](# Despliegue)
+- [Contacto](#Contacto)
 
 ## Características 💬
 
@@ -38,9 +38,11 @@ Este backend es el núcleo de la red social, desarrollado con Node.js, Express y
 Antes de instalar, descargue e instale Node.js.☑️
 
 1. Clona el repositorio:
- ```bash
-   git clone https://github.com/freya-godoy/Red-Social-Backend.git
-   ```
+
+```bash
+  git clone https://github.com/freya-godoy/Red-Social-Backend.git
+```
+
 2. Instala dependencias del proyecto:
 
 ```sh
@@ -49,19 +51,19 @@ npm install
 
 ## interfaz 📲
 
-Login👤
+Login 👤
 ![Pantalla de inicio](./Imagenes-para-Readme/muestra-login-red-social.png)
 
-Registro👥
+Registro 👥
 ![Pantalla de inicio](./Imagenes-para-Readme/muestra-registro-red-social.png)
 
-Comunidad🌍
+Comunidad 🌍
 ![Pantalla de inicio](./Imagenes-para-Readme/muestra-de-ruta-gente-red-social.png)
 
 Ajustes🔧
 ![Pantalla de inicio](./Imagenes-para-Readme/muestra-ajustes-red-social.png)
 
-Perfil👩 👨
+Perfil 👩 👨
 ![Pantalla de inicio](./Imagenes-para-Readme/perfil.png)
 
 ## Despliegue 📂
