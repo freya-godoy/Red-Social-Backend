@@ -7,12 +7,11 @@ Este backend es el núcleo de la red social, desarrollado con Node.js, Express y
 - [Características](#caracteristicas)
 - [Tecnologías](#tecnologias)
 - [Instalación](#instalacion)
-- [Uso](#uso)
 - [Interfaz](#interfaz)
 - [Despliegue](#despliegue)
 - [Contacto](#contacto)
 
-## Características 💬
+## Características 💬  <a id="caracteristicas"></a>
 
 - Registro y creación de usuarios.
   Inicio de sesión seguro (login).
@@ -26,14 +25,14 @@ Este backend es el núcleo de la red social, desarrollado con Node.js, Express y
   Seguir y dejar de seguir a otros usuarios.
   Ver lista de seguidores y seguidos.🔁
 
-## Tecnologías 🌐
+## Tecnologías 🌐 <a id="tecnologias"></a>
 
 - **Node.js y Express**: Para el servidor backend.
 - **MongoDB**: Como base de datos no relacional.
 - **JWT (JSON Web Tokens)**: Para autenticación segura.
 - **Multer**: Para la gestión de archivos.
 
-## Instalación ⚙️
+## Instalación ⚙️ <a id="instalacion"></a>
 
 Antes de instalar, descargue e instale Node.js.☑️
 
@@ -49,7 +48,7 @@ Antes de instalar, descargue e instale Node.js.☑️
 npm install
 ```
 
-## interfaz 📲
+## Interfaz 📲 <a id="interfaz"></a>
 
 Login 👤
 ![Pantalla de inicio](./Imagenes-para-Readme/muestra-login-red-social.png)
@@ -66,7 +65,7 @@ Ajustes 🔧
 Perfil 👩 👨
 ![Pantalla de inicio](./Imagenes-para-Readme/perfil.png)
 
-## Despliegue 📂
+## Despliegue 📂 <a id="despliegue"></a>
 
 Despliegue desde la consola:
 
@@ -82,6 +81,6 @@ Frontend
 npm run dev
 ```
 
-## Contacto 📬
+## Contacto 📬 <a id="contacto"></a>
 
 - Email: freya.godoy.20@hotmail.com
