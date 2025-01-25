@@ -11,7 +11,7 @@ Este backend es el núcleo de la red social, desarrollado con Node.js, Express y
 - [Despliegue](#despliegue)
 - [Contacto](#contacto)
 
-## Características 💬  <a id="caracteristicas"></a>
+## Características 💬 <a id="caracteristicas"></a>
 
 - Registro y creación de usuarios.
   Inicio de sesión seguro (login).
@@ -48,22 +48,33 @@ Antes de instalar, descargue e instale Node.js.☑️
 npm install
 ```
 
-## Interfaz 📲 <a id="interfaz"></a>
+## Base de datos con MongoDB 📲 <a id="interfaz"></a>
 
-Login 👤
-![Pantalla de inicio](./Imagenes-para-Readme/muestra-login-red-social.png)
+Base de datos 🌐
 
-Registro 👥
-![Pantalla de inicio](./Imagenes-para-Readme/muestra-registro-red-social.png)
+![Pantalla de inicio](./Imagenes-para-Readme/base-de-datos-red-social.png)
 
-Comunidad 🌍
-![Pantalla de inicio](./Imagenes-para-Readme/muestra-de-ruta-gente-red-social.png)
+Usuarios creados 👥
 
-Ajustes 🔧
-![Pantalla de inicio](./Imagenes-para-Readme/muestra-ajustes-red-social.png)
+![Pantalla de inicio](./Imagenes-para-Readme/base-de-datos-user-red-social.png)
 
-Perfil 👩 👨
-![Pantalla de inicio](./Imagenes-para-Readme/perfil.png)
+Publicaciones 📰
+
+![Pantalla de inicio](./Imagenes-para-Readme/base-de-datos-publication-red-social.png)
+
+Follows 👥
+
+![Pantalla de inicio](./Imagenes-para-Readme/base-de-datos-follow-red-social.png)
+
+## Pruebas API con Postman 🔧 <a id="interfaz"></a>
+
+Usuario registrado ✔️
+
+![Pantalla de inicio](./Imagenes-para-Readme/post-usuario-creado-red-social.png)
+
+Prueba que valida si el usuario existe ✔️
+
+![Pantalla de inicio](./Imagenes-para-Readme/post-usuario-red-social.png)
 
 ## Despliegue 📂 <a id="despliegue"></a>
 
@@ -80,6 +91,16 @@ Frontend
 ```sh
 npm run dev
 ```
+
+## Contribuciones 👇
+
+¡Las contribuciones son bienvenidas! Sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una rama nueva: `git checkout -b nueva-rama`.
+3. Realiza tus cambios y haz un commit: `git commit -m "Descripción"`.
+4. Sube los cambios: `git push origin nueva-rama`.
+5. Abre un Pull Request.
 
 ## Contacto 📬 <a id="contacto"></a>
 
